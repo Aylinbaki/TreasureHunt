@@ -1,0 +1,28 @@
+
+.DS_Store
+
+# NetBeans specific
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Java class files
+*.class
+*.log
+
+# IDE configs
+.idea/
+.vscode/
+*.iml
+
+# Maven/Gradle outputs (if any)
+target/
+out/
+
+# Other temporary files
+*.tmp
+*.bak
